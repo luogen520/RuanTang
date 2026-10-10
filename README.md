@@ -481,8 +481,8 @@ colr = buildCOLR({
 ## 📮 联系
 
 - **字体作者**：**罗根 (Luo Gen)**
-- **项目主页**：https://github.com/luogen/RuanTang
-- **Issue 反馈**：https://github.com/luogen/RuanTang/issues
+- **项目主页**：https://github.com/luogen520/RuanTang
+- **Issue 反馈**：https://github.com/luogen520/RuanTang/issues
 - **协议许可**：SIL Open Font License 1.1
 
 ---
